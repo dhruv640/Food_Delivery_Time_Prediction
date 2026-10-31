@@ -74,6 +74,7 @@ We trained and evaluated **Linear Regression** and **Ridge Regression** models u
    python Python_Code/project.py
    ```
 
+
 ---
 
 ## 📂 Project Directory Structure
